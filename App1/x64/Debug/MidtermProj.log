@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (App1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  App1.cpp
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.cpp(10,36): error C2491: 'nApp1': definition of dllimport data not allowed
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.cpp(14,1): error C2491: 'fnApp1': definition of dllimport function not allowed
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.cpp(19,16): warning C4273: 'CApp1::CApp1': inconsistent dll linkage
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.h(17,2): message : see previous definition of '{ctor}'
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.cpp(24,34): warning C4273: 'App1Ordernamespace::Orders::placeOrder': inconsistent dll linkage
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.h(27,22): message : see previous definition of 'placeOrder'
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.cpp(34,34): warning C4273: 'App1Ordernamespace::Orders::orderDelivery': inconsistent dll linkage
+E:\Downloads\SAGroup20\SAGroup20\App1\App1.h(28,22): message : see previous definition of 'orderDelivery'
+  dllmain.cpp
+  Generating Code...

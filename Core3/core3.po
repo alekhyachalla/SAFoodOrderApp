@@ -1,0 +1,23 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Alekhya AUTHOR  <challaaa@mail.uc>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-02\n"
+"PO-Revision-Date: YEAR-MO-DA\n"
+"Last-Translator: Alekhya Challa<challaaa@mail.uc>\n"
+"Language-Team: de <abc@abc.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: Core3.cpp:28
+msgid "---------- Core 2  Library-----------"
+msgstr "------------ core2-Bibliothek--------------"
